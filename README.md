@@ -1,2 +1,1 @@
-# gamestock
 Gamestock
